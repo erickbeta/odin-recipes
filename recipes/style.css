@@ -1,0 +1,32 @@
+li{
+    font-size: 20px;
+    color: rgb(7, 35, 126);
+}
+
+
+
+/* removed underline and decoration*/
+a{
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+
+
+a:hover {
+    text-decoration: none;
+    font-style: italic;
+    font-size: 20px;
+}
+h1 {
+    color: crimson;
+}
+.title{
+    color: darkred;
+    font-style: bold;
+}
+
+.food{
+    color: darkslategray;
+}

@@ -1,0 +1,1 @@
+Getting git commands ready and put all html knowledge in action 
