@@ -1,9 +1,7 @@
 li{
-    font-size: 20px;
-    color: rgb(7, 35, 126);
+    font-size: 30px;
+    color: rgb(25, 153, 53);
 }
-
-
 
 /* removed underline and decoration*/
 a{
@@ -12,12 +10,11 @@ a{
 
 }
 
-
-
 a:hover {
     text-decoration: none;
     font-style: italic;
-    font-size: 20px;
+    font-size: 30px;
+
 }
 h1 {
     color: crimson;
@@ -28,5 +25,10 @@ h1 {
 }
 
 .food{
-    color: darkslategray;
+    color: rgb(103, 112, 112);
+    font-size: 30px;
+}
+
+.footer{
+    font-size: 20px;
 }
